@@ -2,13 +2,6 @@
 
 請簡要敘述這支 PR 所做的事情。
 
-## Asana link(s)
-
-<!-- 列出與這支 PR 有關聯的 Asana 卡片，以利雙向追溯 (traceability) -->
- - https://app.asana.com/xxx
- - https://app.asana.com/xxx
- - https://app.asana.com/xxx
-
 
 ## 異動類型
 
@@ -53,3 +46,6 @@
 
 # 補充說明
 
+
+## Asana link(s)
+<!-- 列出與這支 PR 有關聯的 Asana 卡片，以利雙向追溯 (traceability) -->
